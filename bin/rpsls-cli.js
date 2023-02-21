@@ -20,7 +20,7 @@ function help() {
 }
 
 function rules() {
-    console.log('Rules for the Lizard-Spock Espansion of Rock Paper Scissors:');
+    console.log('Rules for the Lizard-Spock Expansion of Rock Paper Scissors:');
     console.log('');
     console.log(' Scissors CUTS Paper');
     console.log(' Paper COVERS Rock');
